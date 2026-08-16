@@ -1,0 +1,6 @@
+# Klasörler — sonuna / koy, sadece klasörle eşleşsin
+f44ret6-backups/
+.history/
+
+# Kilit dosyaları
+*.lck
