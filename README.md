@@ -19,17 +19,6 @@ The board provides a CAN interface, a hardware-inverted SBUS receiver input, PWM
 | Headers | SPI, UART, SWD |
 | Layers | 2 |
 
-## Repository layout
-
-```
-f44ret6.kicad_pro     KiCad project
-f44ret6.kicad_sch     Schematic
-f44ret6.kicad_pcb     PCB layout
-sch.pdf               Schematic export (PDF)
-```
-
-Open `f44ret6.kicad_pro` in **KiCad 7 or newer**.
-
 ## Hardware notes
 
 ### Power
